@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React Tic-Tac-Toe App [![Node.js CI](https://github.com/achyutghosh/react-tic-tac-toe/actions/workflows/node.js.yml/badge.svg)](https://github.com/achyutghosh/react-tic-tac-toe/actions/workflows/node.js.yml)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
